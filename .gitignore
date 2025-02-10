@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build       # <-- Comment out this line to ensure the build folder isn't ignored
 
 # misc
 .DS_Store
